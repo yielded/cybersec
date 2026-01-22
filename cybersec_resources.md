@@ -216,5 +216,8 @@
 - [Figma](https://www.figma.com/)  
 - [UML Tools](https://plantuml.com/)
 
-- yes yes yes, ur welcome <3
-- ~kylah
+yes. yes.. yes,.,,, ur welcome <3
+~**kylah** 
+
+p.s
+if any links decide not to work, plz lmk. sorry for inconvenience :<
