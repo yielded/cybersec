@@ -1,5 +1,7 @@
 
-# Cybersecurity & IT Learning Resources
+# Cybersecurity & IT stuff
+
+**a list of cybersecurity and IT related resources i have put together over the past year**
 
 ---
 
@@ -44,7 +46,7 @@
 
 ---
 
-## 🧠 Free Learning Platforms & Resources
+## Free Learning Platforms & Resources
 
 ### Microsoft
 
@@ -83,7 +85,7 @@
 
 ---
 
-## 🧪 Penetration Testing Labs & CTFs
+## Penetration Testing Labs & CTFs
 
 - [TryHackMe Learning Paths](https://tryhackme.com/)  
 - [Splunk Free Training](https://www.splunk.com/en_us/training/free-courses.html)  
@@ -105,7 +107,7 @@
 
 ---
 
-## 📜 Standards, Frameworks & Regulations
+## Standards, Frameworks & Regulations
 
 - [HIPAA (US)](https://www.hhs.gov/hipaa/index.html)  
 - [GDPR (EU)](https://gdpr-info.eu/)  
@@ -125,7 +127,7 @@
 
 ---
 
-## 🛠️ Tools & Utilities
+## Tools & Utilities
 
 - [Snort IDS Manual (v3)](https://docs.snort.org/)  
 - [Wazuh SIEM](https://documentation.wazuh.com/current/index.html)  
@@ -147,7 +149,7 @@
 
 ---
 
-## 👨‍💻 Programming & Scripting
+## Programming & Scripting
 
 - [Python Courses](https://www.learnpython.org/)  
 - [Intro to OOP - Python](https://realpython.com/python3-object-oriented-programming/)  
@@ -166,7 +168,7 @@
 
 ---
 
-## 📱 Mobile & AI
+## Mobile & AI
 
 - [Swift (Apple)](https://developer.apple.com/swift/)  
 - [Android Development](https://developer.android.com/)  
@@ -177,7 +179,7 @@
 
 ---
 
-## 🔐 Cryptography & Quantum Security
+## Cryptography & Quantum Security
 
 - [Understanding Cryptography (Springer Book)](https://link.springer.com/book/10.1007/978-3-642-04101-3)  
 - [Blockchain Python Tutorial](https://github.com/dvf/blockchain)  
@@ -187,7 +189,7 @@
 
 ---
 
-## 💻 OS, VMs & Offline Tools
+## OS, VMs & Offline Tools
 
 - [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html)  
 - [Kali Linux VMs & ISOs](https://www.kali.org/get-kali/)  
@@ -207,7 +209,7 @@
 
 ---
 
-## 🧰 Design & Class Tools
+## Design & Class Tools
 
 - [Draw.io](https://draw.io/)  
 - [Miro](https://miro.com/)  
