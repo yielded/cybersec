@@ -1,9 +1,7 @@
 
-# 🛡️ Cybersecurity & IT Learning Resources
+# Cybersecurity & IT Learning Resources
 
 ---
-
-## 🎓 Certifications & Formal Courses
 
 ### Cisco Networking Academy
 
@@ -215,3 +213,6 @@
 - [Miro](https://miro.com/)  
 - [Figma](https://www.figma.com/)  
 - [UML Tools](https://plantuml.com/)
+
+- yes yes yes, ur welcome <3
+- ~kylah
